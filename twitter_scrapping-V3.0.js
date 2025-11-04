@@ -37,7 +37,7 @@
     `;
     box.innerHTML = `
       <div style="padding:10px 12px; display:flex; align-items:center; justify-content:space-between; background:#15202b;">
-        <strong>Twitter Scraper • GOVRJ</strong>
+        <strong>Twitter Scraper • By Gibbs</strong>
         <button id="giba-close" style="all:unset; cursor:pointer; padding:4px 6px; border-radius:6px; border:1px solid #2f3b44;">×</button>
       </div>
       <div style="padding:12px;">
